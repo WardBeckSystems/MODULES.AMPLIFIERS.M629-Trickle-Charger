@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (138, 16)–(410, 68) mm: IsS MOD [CKD · MATL · USED ON · WBS WARD-BECK sySTEMs · DRN_ · 2J · M6z9 · FINISH · DATE oct 73 · CKD PAA · TRIckLE CHARGE R Sch · SCALE · TOLS · HSS · 629 02 001
 - **Wiring (first pass):** 33 connected wire groups from 171 runs; labelled ends: 196 mm → ci, 100/35, R4, 3W; 142 mm → Ik 1/2W, CR, IN4003, CR 3; 126 mm → P2; 92 mm → P2; 89 mm → VBio
 
-Every curve, box, word and wire group: [19xx - M629 - DOC - 629-02-001 - RAA TRICKLE CHARGE (traced).json](../SCHEMATICS/19xx%20-%20M629%20-%20DOC%20-%20629-02-001%20-%20RAA%20TRICKLE%20CHARGE%20(traced).json) (the CAD file: `19xx - M629 - DOC - 629-02-001 - RAA TRICKLE CHARGE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M629 - DOC - 629-02-001 - RAA TRICKLE CHARGE (traced).json](../SCHEMATICS/19xx%20-%20M629%20-%20DOC%20-%20629-02-001%20-%20RAA%20TRICKLE%20CHARGE%20%28traced%29.json) (the CAD file: `19xx - M629 - DOC - 629-02-001 - RAA TRICKLE CHARGE (traced).dxf`).
 
 ## Full text
 
