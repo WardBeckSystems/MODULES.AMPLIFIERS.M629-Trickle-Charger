@@ -1,5 +1,5 @@
 # 1973 - 629-02-001 - TRICKLE CHARGER SCH - DRN BJ - ISS 1.png
-Wiki page: [M629](../../../../PAGES/M629.md)
+Wiki page: [M629](../)
 
 
 - **Year:** 1973 (title block date)

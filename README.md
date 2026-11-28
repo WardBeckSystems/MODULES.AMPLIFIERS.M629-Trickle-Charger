@@ -1,6 +1,6 @@
 # M629 Trickle Charger · Amplifiers
 
-Ward-Beck Systems M629, 1973|6. Wiki page: [M629 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M629.html)
+Ward-Beck Systems M629, 1973|6. Wiki page: [M629 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M629-Trickle-Charger/)
 
 | Folder | What is in it | Files |
 |---|---|---|
